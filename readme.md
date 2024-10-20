@@ -1,7 +1,7 @@
 
 # **API Gestión de Eventos**  
 
-Este proyecto es una API desarrollada con **Node.js**, **Express** y **MongoDB** que permite gestionar eventos mediante operaciones CRUD básicas y funcionalidades de negocio específicas para el curso Node de Pilar Tecno
+Este proyecto es una API desarrollada con **Node.js**, **Express** y **MongoDB** que permite gestionar eventos mediante operaciones CRUD básicas y funcionalidades de negocio específicas para el curso Node de la formación Pilar Tecno 
 
 ---
 
