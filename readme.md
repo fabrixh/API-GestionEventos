@@ -6,6 +6,7 @@ Este proyecto es una API desarrollada con **Node.js**, **Express** y **MongoDB**
 ---
 
 ## **Características**
+
 - **Registrar un participante**: Permite registrar a un nuevo participante en un evento si hay entradas disponibles.
 - **Obtener eventos con entradas disponibles**: Muestra los eventos que aún tienen entradas para ofrecer.
 - **Obtener eventos por fecha**: Filtra los eventos programados para una fecha específica.
